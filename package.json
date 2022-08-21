@@ -1,0 +1,15 @@
+{
+  "name": "lesson7.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "dash": "cypress run --record --key c953e756-6c16-4998-bdb6-8defcf1d62d1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.0"
+  }
+}
